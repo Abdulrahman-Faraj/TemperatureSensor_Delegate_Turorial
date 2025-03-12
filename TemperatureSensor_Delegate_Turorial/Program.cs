@@ -14,7 +14,7 @@
                 Console.WriteLine("Welcome to the temperature system");
                 Console.WriteLine("1. Set the temperature ");
                 Console.WriteLine("2. Set the alarm value (default 20)");
-                Console.WriteLine("3. Exit");
+                Console.WriteLine("3. Exit");///test
                 var chioce = Console.ReadLine();
                 switch(chioce)
                 {
